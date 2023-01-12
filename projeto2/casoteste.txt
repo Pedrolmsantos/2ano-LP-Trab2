@@ -1,0 +1,6 @@
+inserur "887267" pressionar "*" inserir 8872 
+carregar no botao toggle 
+inserir a palavra "maca"
+pressionar "*"
+pressionar no botao toggle 
+pressionar "7222"
